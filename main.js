@@ -7,4 +7,8 @@ $.getJSON ('https://coronavirus-19-api.herokuapp.com/countries/brazil', function
     $(".totaly").append(totaly);
     $(".recovery").append(recovery);
     $(".deaths").append(deaths);
+  
+
 });
+
+
