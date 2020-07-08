@@ -60,6 +60,7 @@ h1 {
 }
 
 .box_confirm {
+    border-bottom: 8px solid rgba(0,0,0,.3);
     text-align: center;
     padding-top : 50px;
     margin: 15px;
@@ -69,7 +70,8 @@ h1 {
     height: 15vh;
 }
 
-.box_rec{
+.box_rec{ 
+    border-bottom: 8px solid rgba(0,0,0,.3) ;
     text-align: center;
     padding-top : 50px;
     margin: 15px;
@@ -79,6 +81,7 @@ h1 {
     height: 15vh;
 }
 .box_fatal{
+    border-bottom: 8px solid rgba(0,0,0,.3);
     text-align: center;
     padding-top : 50px;
     margin: 15px;
