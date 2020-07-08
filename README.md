@@ -4,9 +4,6 @@
 <h1 align="center">Covid Cases On Brazil</h1>
  <h1 align="center" href="https://artiwnl.github.io/CovidCasesOnBrazil/"> Aplicação </h1>
 <p align="center">
-  <strong>Aplicação de difusão de dados coletados através de API</strong>
-</p>
-<p align="center">
   <br>
     <img align="center" src="img/site.png" alt="Screenshot1" width="80%">
   <br>
