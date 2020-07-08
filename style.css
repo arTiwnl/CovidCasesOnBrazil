@@ -86,6 +86,18 @@ h1 {
         max-width: 280px;
         font-size: 15px;
     }
+   
+}
+@media(max-width : 600px){
+    .box_confirm{
+        width: 250px;
+    }
+    .box_rec{
+        width: 250px;
+    }
+    .box_fatal{
+        width: 250px;
+    }
 }
 @media(min-width : 600px){
     body{
@@ -99,4 +111,5 @@ h1 {
         max-width: 500px;
     }
 }
+
 
