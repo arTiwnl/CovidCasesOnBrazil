@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/api/public/logo.svg" width="90px" float="center"/>
+  <img src="img/logo.svg" width="90px" float="center"/>
 </p>
 <h1 align="center">Covid Cases On Brazil</h1>
 <p align="center">
