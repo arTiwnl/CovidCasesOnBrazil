@@ -14,5 +14,5 @@
 </p>
 <h1 align="center">Sobre</h1>
 <p align="center">
-  <strong> Aplicação Desenvolvida totalmente por <a href="https://www.instagram.com/artie.baka/">Arthur Carvalho</a></strong>
+  <strong> Aplicação Desenvolvida totalmente por <a href="https://www.instagram.com/artie.baka/">Arthur Carvalho</a>.</strong>
 </p>
