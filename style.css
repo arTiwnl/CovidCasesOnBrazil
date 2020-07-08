@@ -17,7 +17,7 @@ body{
     align-items: center;
 }
 p{
-    
+ 
     text-decoration: none;
     color: whitesmoke;
     font-size: 25px;
@@ -44,6 +44,9 @@ p{
 }
 a{
     cursor: pointer;
+}
+h3 {
+    font-weight: 400;
 }
 
 h1, h3, a{
