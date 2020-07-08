@@ -9,3 +9,8 @@
 <p align="center">
   <strong>Aplicação de difusão de dados coletados através de API</strong>
 </p>
+<p align="center">
+  <br>
+    <img align="center" src="img/site.png" alt="Screenshot1" width="80%">
+  <br>
+</p>
