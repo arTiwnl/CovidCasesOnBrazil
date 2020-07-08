@@ -1,0 +1,102 @@
+*{
+    margin : 0;
+    border : 0;
+    font-family: 'Montserrat', sans-serif;
+}
+html{
+    
+    background-color: #2C3D55;
+}
+
+body{
+ 
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+p{
+    
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 25px;
+
+}
+.social i{
+    width: 50px;
+    height: 50px;
+    color: white;
+ 
+    
+}
+.social{
+    text-decoration-style: none;
+}
+
+#icon{
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 40px;
+}
+a{
+    cursor: pointer;
+}
+
+h1, h3, a{
+
+    color: white;
+}
+h1 {
+    font-size: 45px;
+    margin-bottom: 3vh;
+ 
+}
+
+.box_confirm {
+    text-align: center;
+    padding-top : 50px;
+    margin: 15px;
+    border-radius: 20px;
+    background-color: #fcbf49;
+    width: 180px;
+    height: 15vh;
+}
+
+.box_rec{
+    text-align: center;
+    padding-top : 50px;
+    margin: 15px;
+    border-radius: 20px;
+    background-color: #02c39a;
+    width: 180px;
+    height: 15vh;
+}
+.box_fatal{
+    text-align: center;
+    padding-top : 50px;
+    margin: 15px;
+    border-radius: 20px;
+    background-color: #f94144;
+    width: 180px;
+    height: 15vh;
+}
+@media(max-width : 500px){
+    .sobre{
+        max-width: 280px;
+        font-size: 15px;
+    }
+}
+@media(min-width : 600px){
+    body{
+        padding-top: 12vh;
+    }
+    .inside{
+        display: flex;
+        flex-direction: unset;
+    }
+    .sobre{
+        max-width: 500px;
+    }
+}
+
